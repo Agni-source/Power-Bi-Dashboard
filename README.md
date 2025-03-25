@@ -5,10 +5,12 @@ Features:
 •	Employee Demographics Analysis (Age, Gender, Department-wise distribution)
 •	Attrition Insights (Reasons for leaving)
 •	Interactive Visuals & Filters for Real-time Insights
+
 Tech Stack:
 •	Power BI (Data Modeling, Interactive Dashboards)
 •	Excel (Data Preprocessing & Cleaning, if used)
 •	Power Query (ETL & Data Transformation)
+
 Use Cases:
 •	Identify key factors influencing employee attrition
 •	Optimize HR policies based on data-driven insights
