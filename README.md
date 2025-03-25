@@ -15,3 +15,5 @@ Use Cases:
 •	Identify key factors influencing employee attrition
 •	Optimize HR policies based on data-driven insights
 •	Improve workforce planning & employee engagement
+
+![Screenshot 2025-03-25 100420](https://github.com/user-attachments/assets/7d07b400-9614-448d-9642-31b7fbe3ff36)
